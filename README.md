@@ -37,6 +37,4 @@ This project is ideal for blockchain beginners who want to understand how token 
 
 ---
 
-### 💻 Smart Contract Code
-```solidity
-//paste your code
+
